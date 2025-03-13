@@ -1,0 +1,2 @@
+# Drone-ile-Deprem-Yardim-Dagitim-Optimizasyonu
+ Bu proje, deprem sonrası yardım malzemelerinin drone kullanılarak en verimli şekilde dağıtılmasını optimize etmeyi amaçlamaktadır. K-Means algoritmasıyla ihtiyaç noktaları kümelenir, ardından Dijkstra algoritması kullanılarak en kısa rota belirlenir. NetworkX ile grafik yapıları oluşturularak, her küme için en uygun depo tespit edilir ve drone kapasitesine göre dağıtım planlaması yapılır.
